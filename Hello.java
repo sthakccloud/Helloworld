@@ -1,6 +1,6 @@
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("This is a test java program version 2");
+		System.out.println("This is a test java program version 3");
 	}
 
 }
